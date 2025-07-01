@@ -17,10 +17,10 @@ This project analyzes the factors that influence customer loyalty in retail usin
 
 <div align='center'>
 
-  <img src="https://github.com/user-attachments/assets/b6a95700-b7d4-4f5e-8b86-874c6c703764" width="300" height="250" />
-  <img src="https://github.com/user-attachments/assets/f7343059-e50e-46aa-bc58-90f056ba18ba" width="300" height="250" />
-  <img src="https://github.com/user-attachments/assets/3ffcd459-f514-43bb-a93d-5a601832e7ed" width="300" height="250" />
-  <img src="https://github.com/user-attachments/assets/29a85957-0269-42ed-936c-e4daa5f0f4c0" width="300" height="350" />
-  <img src="https://github.com/user-attachments/assets/b468c58a-1d89-4bef-95ef-dfacf6fae36d" width="300" height="350" />
+  <img src="https://github.com/user-attachments/assets/b6a95700-b7d4-4f5e-8b86-874c6c703764" height="250" />
+  <img src="https://github.com/user-attachments/assets/f7343059-e50e-46aa-bc58-90f056ba18ba" height="250" />
+  <img src="https://github.com/user-attachments/assets/3ffcd459-f514-43bb-a93d-5a601832e7ed" height="250" />
+  <img src="https://github.com/user-attachments/assets/29a85957-0269-42ed-936c-e4daa5f0f4c0" height="350" />
+  <img src="https://github.com/user-attachments/assets/b468c58a-1d89-4bef-95ef-dfacf6fae36d" height="350" />
 
 </div>
